@@ -1,12 +1,21 @@
 import React from 'react';
-import { Carousel } from 'react-bootstrap';
+import { Carousel, Button } from 'react-bootstrap';
 
 
 function Banner() {
 
   return (
-    <div>
-     <h1>WELCOME!</h1>
+    <div style={{color:'white', backgroundColor:'#46676d', margin:'50px 50px 100px 50px', padding:'50px 50px 50px 50px'}}>
+      <h1> Patty's Art Gallery </h1> <p>Get your daily dose!</p><Button variant="light">Contact Me</Button>
+    <h3>
+        Welcome! 
+        <br/>
+        There's much to see here. So, take your time, look around. 
+        Then make sure to drop me a line.
+        <br/>
+        I look forward to hearing from you.!
+      </h3>
+     
     </div>
   );
 }
