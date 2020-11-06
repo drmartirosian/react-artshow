@@ -2,7 +2,7 @@ import React from 'react';
 import { Carousel } from 'react-bootstrap';
 import Img1 from '../img/1.jpg';
 
-function NavBar() {
+function ImgGallery() {
 
   return (
     <div>
@@ -48,4 +48,4 @@ function NavBar() {
   );
 }
 
-export default NavBar;
+export default ImgGallery;
