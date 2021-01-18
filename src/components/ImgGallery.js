@@ -14,8 +14,8 @@ import Img11 from '../img/11.jpg';
 import Img12 from '../img/12.jpg';
 import Img13 from '../img/13.jpg';
 import Img14 from '../img/14.jpg';
-import Img15 from '../img/15.jpg';
-import Img16 from '../img/16.jpg';
+import Img15 from '../img/15.png';
+import Img16 from '../img/16.png';
 import Img17 from '../img/17.jpg';
 import Img18 from '../img/18.jpg';
 import Img19 from '../img/19.jpg';
@@ -24,7 +24,7 @@ import Img19 from '../img/19.jpg';
 function ImgGallery() {
 
   return (
-    <div>
+    <div style={{color:'red'}}>
       <Carousel >
         <Carousel.Item interval={1000}>
           <img
