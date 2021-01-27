@@ -23,7 +23,7 @@ import Img19 from '../img/19.jpg';
 function ImgGallery() {
 
   return (
-    <div style={{width: "80%", paddingLeft:"20%"}}>
+    <div style={{paddingRight:"10%", paddingLeft:"10%"}}>
       <Carousel >
         <Carousel.Item interval={1000}>
           <img
