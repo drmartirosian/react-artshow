@@ -6,7 +6,7 @@ function Footer() {
 
   return (
     <div style={{backgroundColor:'gray'}}>
-     <h1>Patty Martirosian, 2021*<Button variant="light">BUTTON</Button></h1>
+     <h1>Patty Martirosian, 2021™</h1>
     </div>
   );
 }
