@@ -6,7 +6,7 @@ function Footer() {
 
   return (
     <div style={{
-      borderTop: '10px solid #ddd',
+      borderTop: '1px solid #ddd',
       position: 'absolute',
       left:0,
       bottom:0,
