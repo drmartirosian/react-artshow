@@ -6,7 +6,7 @@ function Banner() {
 
   return (
     <div style={{color:'white', backgroundColor:'#46676d', margin:'50px 50px 100px 50px', padding:'50px 50px 50px 50px'}}>
-      <h1>Art Gallery </h1> <p>Get your daily dose!</p><a class="mailto" href="the100acrewood.yahoo.com">Mail</a>
+      <h1>Art Gallery </h1> <p>Get your daily dose!</p>
     <h3>
         Welcome! 
         <br/>
